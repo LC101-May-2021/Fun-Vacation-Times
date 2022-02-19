@@ -1,1 +1,26 @@
-/* Write your CSS here! */
+body {
+    margin:8px;
+    display: block;
+}
+
+#mainHeading {
+    color: red; 
+}
+
+.funParagraph {
+       color: green; 
+}
+
+aside {
+    width: 20%;
+    padding-left: 10px;
+    margin-left: 10px;
+    float:right;
+    font-style:inherit;
+    font-weight: bold;
+    background-color:yellow;
+  }
+
+  html {
+      background-color: peachpuff;
+  }
